@@ -812,9 +812,9 @@ cd ml-service && pytest tests/
 This project is licensed under the **MIT Vidzai Digital License** - see the [LICENSE](LICENSE) file for details.
 
 ```
-MIT Vidzai Digital License
+MIT License
 
-Copyright (c) 2026 A Gireesh kumar Gowd
+Copyright (c) 2026 Mahalakshmi Padala,Vidzai Digital
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -859,6 +859,12 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 - **Ethereum Foundation** for blockchain infrastructure
 
 ---
+## Acknowledgement
+
+This project was developed as part of a team effort.
+
+- My contribution: Frontend development (authentication, dashboard, OCR UI)
+- Backend and model development were handled collaboratively by the team.
 
 ## 📚 Citations
 
@@ -866,7 +872,7 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @software{kyc_fraud_detection_2026,
-  author = {Gowd, A Gireesh Kumar},
+  author = {AI KYC COMPLIANCE TEAM},
   title = {AI-Powered Identity Verification and Fraud Detection for KYC Compliance},
   year = {2026},
   url = {https://github.com/yourusername/AI-Powered-Identity-Verification-and-Fraud-Detection-for-KYC-Compliance}
